@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Carrom AI</string>
+    <string name="splash_title">Carrom AI</string>
+    <string name="splash_tagline">Visual shot assistant</string>
+    <string name="select_title">Choose your coins</string>
+    <string name="select_subtitle">Pick the colour you are playing with</string>
+    <string name="btn_black">Black</string>
+    <string name="btn_white">White</string>
+    <string name="status_none">No colour selected yet</string>
+    <string name="status_black">Playing with Black coins</string>
+    <string name="status_white">Playing with White coins</string>
+</resources>
